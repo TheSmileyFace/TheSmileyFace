@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @TheSmileyFace
-- 👀 I’m interested in Making Money
-- 🌱 I’m currently learning How to make Money
-- 💞️ I’m looking to collaborate on Money
-- 📫 How to reach me Give money
+👋 Hey, I'm Juan!
+📍 Located in Spain 🇪🇸 | 💻 Web Designer & Developer
+🎯 14-year-old entrepreneur building the future, one website at a time! 🚀
 
-<!---
-TheSmileyFace/TheSmileyFace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💼 What I Do
+🖥️ Web Design & Development – Crafting modern, high-performance websites
+🚀 SaaS & App Creation – Bringing innovative ideas to life
+🎮 Game Development – Exploring new worlds through code
+💡 Business & Marketing – Always looking for the next big opportunity
+📈 My Goals
+💰 Make a living from web development & entrepreneurship
+🏝️ Move to Los Angeles & live in Beverly Hills
+🔥 Build a $100,000/month business
+
+🎯 Fun Facts About Me
+🏋️‍♂️ Fitness enthusiast | 🏏 Cricket player | 🎨 Passionate about design
+🎮 Love gaming & creating unique experiences
+🌍 Dreaming big & working hard to make it happen!
